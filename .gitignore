@@ -1,6 +1,6 @@
 .classpath
 .project
-assets
+lib
 .vscode
 *.class
 /bin/
